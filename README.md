@@ -75,14 +75,19 @@ A role-based platform where teachers author assignments, students submit work wi
 
 ---
 
-## 🎓 Education &amp; training
+## 📚 Professional training
+
+**Dev Skill, Dhaka** — Full Stack ASP.NET Core MVC Web Development (Jul 2022 – Jan 2023)
+**Dev Skill, Dhaka** — Professional Programming with C# (Nov 2021 – Mar 2022)
+
+---
+
+## 🎓 Education
 
 **M.Sc. in Biomedical Engineering** — Islamic University, Kushtia (Aug 2024 – Aug 2025)
 Project: C# telemedicine platform with appointment booking and patient–doctor messaging
 
 **B.Sc. (Engg.) in Biomedical Engineering** — Islamic University, Kushtia (2024)
-
-**Dev Skill, Dhaka** — Full Stack ASP.NET Core MVC Web Development (2022–23) · Professional Programming with C# (2021–22)
 
 ---
 
